@@ -8,4 +8,4 @@ To implement into your project, simply create something similar to the following
 </div>
 ```
 
-You can also substitute SVG instead of images by inserting the SVG code in lieu of the <img>.
+You can also substitute SVG instead of images by inserting the SVG code in lieu of the image.
